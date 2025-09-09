@@ -48,14 +48,6 @@ features:
     description: Weekly dashboard with rewards, insights & confetti celebrations.
     fontawesome_icon_name: chart-line
 
-  - title: Mom-Life Integration
-    description: Pre-loaded templates, quick capture, and cross-device sync.
-    fontawesome_icon_name: sync-alt
-
-  - title: Affordable Subscriptions
-    description: Pro Weekly – $4.99/week; Pro Yearly – $29.99/year. Cancel anytime.
-    fontawesome_icon_name: dollar-sign
-
 # Theme Settings
 topbar_color: "#000000"
 topbar_transparency: 0.1
