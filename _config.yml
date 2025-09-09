@@ -9,7 +9,7 @@ appstore_link: # Will auto-populate if iOS App ID is correct
 playstore_link: # Add Google Play Store link if available
 presskit_download_link: https://alicsystems.com/presskit-busy-mom.zip
 
-app_icon: assets/appicon.png
+app_icon: assets/appStore.png
 app_name: Weekly Planner - Busy Mom
 app_price: Free with optional subscriptions
 app_description: Gamified weekly planner designed for busy moms – plan, earn XP, unlock rewards & build habits.
