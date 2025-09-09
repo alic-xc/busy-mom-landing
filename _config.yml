@@ -2,14 +2,14 @@
 page_title: Weekly Planner - Busy Mom
 
 # App Info
-ios_app_id: 1234793120
+ios_app_id: 6752120549
 ios_app_country: us
 
 appstore_link: # Will auto-populate if iOS App ID is correct
 playstore_link: # Add Google Play Store link if available
 presskit_download_link: https://alicsystems.com/presskit-busy-mom.zip
 
-app_icon: assets/appStore.png
+app_icon: assets/logo.png
 app_name: Weekly Planner - Busy Mom
 app_price: Free Trial
 app_description: Gamified weekly planner designed for busy moms – plan, earn XP, unlock rewards & build habits.
@@ -21,13 +21,13 @@ your_name: Alic Systems
 your_link: https://alicsystems.com
 your_city: Lagos
 email_address: support@alicsystems.com
-linkedin_username: alicsystems
-linkedin_company: alicsystems
-facebook_username: alicsystems
-instagram_username: alicsystems
-twitter_username: alicsystems
-github_username: alicsystems
-youtube_username: alicsystems
+linkedin_username: 
+linkedin_company: 
+facebook_username: 
+instagram_username: 
+twitter_username: 
+github_username: 
+youtube_username: 
 mastodon_link: 
 
 # Feature List
